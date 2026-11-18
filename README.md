@@ -1,61 +1,96 @@
-# UMBRION
-
+# UMBRION (UMB)
 ### The Power Beyond the Dark
 
-**UMBRION** is an independent blockchain project exploring the possibilities of the Solana ecosystem.
+**UMBRION** is an independent commercial token project built on Solana, with the long-term potential to become the foundation of a broader digital ecosystem.
 
-Our vision is to build a distinctive digital identity combining technology, transparency, community participation, and a dark, futuristic aesthetic.
+**Status:** In Development — Solana Devnet
 
-## Project Vision
+## Project Overview
 
-UMBRION aims to develop a community-oriented digital asset and establish a transparent foundation for its future ecosystem.
-
-## Technology
-
+- **Token name:** UMBRION
+- **Symbol:** UMB
 - **Blockchain:** Solana
-- **Development environment:** Solana Devnet
 - **Token standard:** SPL Token
-- **Development tools:** Solana CLI, Rust, Anchor
+- **Decimals:** 9
+- **Devnet supply:** 1,000,000,000 UMB
+- **Current network:** Devnet
 
-## Development Status
+UMBRION is currently in its development and testing phase. The Devnet token is not a Mainnet asset and has no established market value.
 
-<badge>In Development</badge>
+## Verified Devnet Information
 
-- [x] Project concept and identity
-- [x] Solana development environment
-- [x] Devnet configuration
-- [ ] Token creation and testing
-- [ ] Tokenomics finalization
-- [ ] Website development
-- [ ] Community development
-- [ ] Mainnet launch assessment
+**Mint address:**
+
+`88ZCUZ5HGiamHpoQ11QojLw92FsTnP8UfnEi9V1BAPQb`
+
+**Token program:** SPL Token Program
+
+**Mint authority:** Active — controlled by the project's Phantom wallet.
+
+**Freeze authority:** Not set.
+
+**Token metadata:** Created and verified on Devnet using Metaplex Token Metadata.
+
+**Current branding:** The Power Beyond the Dark.
+
+The project may use a detailed brand illustration and a separate, simplified token icon. Visual identity remains under development.
+
+## Development Progress
+
+- [x] Project name and identity established
+- [x] Solana development environment configured
+- [x] Devnet SPL token created
+- [x] Token account created
+- [x] 1,000,000,000 UMB minted on Devnet
+- [x] Phantom token balance verified
+- [x] Metaplex token metadata created and verified
+- [x] Initial wallet-connected development tools created
+- [ ] Resolve and review dependency security warnings
+- [ ] Finalize tokenomics and allocation
+- [ ] Finalize token icon and branding
+- [ ] Complete application testing and security review
+- [ ] Develop project website and documentation
+- [ ] Define token utility and community strategy
+- [ ] Review Mainnet deployment requirements
+- [ ] Prepare and evaluate Mainnet launch
 
 ## Tokenomics
 
-The preliminary supply target is **1,000,000,000 UMBRION**.
+The current Devnet supply is **1,000,000,000 UMB**.
 
-The final token supply, allocation, and token parameters remain subject to review and development.
+The intended Mainnet supply, token distribution, vesting, and allocation remain subject to final approval.
+
+Mint authority is currently active on Devnet. A permanently fixed supply has not yet been enforced.
 
 ## Roadmap
 
 **Phase 1 — Foundation**
-- Project identity
-- Technical preparation
-- Devnet testing
 
-**Phase 2 — Development**
-- Token implementation
-- Security and functionality testing
-- Documentation
+Token development, metadata, identity, and Devnet testing.
 
-**Phase 3 — Ecosystem**
-- Website
-- Community
-- Mainnet readiness assessment
+**Phase 2 — Project Development**
+
+Security improvements, tokenomics, website, documentation, utility planning, and community preparation.
+
+**Phase 3 — Mainnet Readiness**
+
+Deployment planning, operational security, token distribution, and launch assessment.
+
+**Phase 4 — Potential Ecosystem Expansion**
+
+Explore additional products, services, and integrations based on the project's development and adoption.
+
+## Security
+
+The local development application currently has unresolved dependency security advisories. The source code is being reviewed before public release.
+
+No private keys, recovery phrases, or confidential wallet credentials should be committed to this repository.
 
 ## Disclaimer
 
-UMBRION is an independent project under development. Nothing in this repository constitutes financial advice, an investment offer, or a promise of returns.
+UMBRION is an independent project under development. Devnet tokens are for development and testing only.
+
+Nothing in this repository constitutes financial advice, an investment offer, or a promise of returns.
 
 ---
 
